@@ -7,16 +7,6 @@ Don't forget to give this project a star for additional support ;)
 Maybe you can mention me or this repo in the acknowledgements too
 -->
 
-<!--
-This README is a slimmed down version of the original one.
-Removed sections:
-- Screenshots
-- Running Test
-- Deployment
-- FAQ
-- Acknowledgements
--->
-
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
@@ -29,33 +19,33 @@ Removed sections:
 <!-- Badges -->
 <p>
   <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+    <img src="https://img.shields.io/github/contributors/uujeong/awesome-readme-template" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/uujeong/awesome-readme-template" alt="last update" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  <a href="https://github.com/uujeong/awesome-readme-template/network/members">
+    <img src="https://img.shields.io/github/forks/uujeong/awesome-readme-template" alt="forks" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  <a href="https://github.com/uujeong/awesome-readme-template/stargazers">
+    <img src="https://img.shields.io/github/stars/uujeong/awesome-readme-template" alt="stars" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+  <a href="https://github.com/uujeong/awesome-readme-template/issues/">
+    <img src="https://img.shields.io/github/issues/uujeong/awesome-readme-template" alt="open issues" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  <a href="https://github.com/uujeong/awesome-readme-template/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/uujeong/awesome-readme-template.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="https://github.com/uujeong/awesome-readme-template/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://github.com/uujeong/awesome-readme-template">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+    <a href="https://github.com/uujeong/awesome-readme-template/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://github.com/uujeong/awesome-readme-template/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -269,7 +259,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 ## Contact
 
-YU JEONG, KIM - [@Github.io](https://uujeong/github.io) - dada207@naver.com
+YU JEONG, KIM - [@github.io](https://uujeong/github.io) - dada207@naver.com
 
 <!-- Acknowledgments -->
 
